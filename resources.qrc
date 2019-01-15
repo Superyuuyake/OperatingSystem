@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/processes">
+        <file>mediaPlayer.xml</file>
+        <file>virusScan.xml</file>
+        <file>webBrowser.xml</file>
+        <file>wordProcessor.xml</file>
+        <file>parent.xml</file>
+        <file>multiparent.xml</file>
+        <file>largeResource.xml</file>
+        <file>tooLarge.xml</file>
+        <file>highPriority.xml</file>
+    </qresource>
+</RCC>

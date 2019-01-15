@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<highpriority>
+    <size>10</size>
+    <pages>4</pages>
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <io />
+    <calculate />
+    <io />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <critical />
+    <calculate />
+    <out />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <io />
+    <calculate />
+    <io />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <calculate />
+    <yield />
+</highpriority>
